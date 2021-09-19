@@ -1,0 +1,3 @@
+[submodule "map-service"]
+	path = map-service
+	url = git@github.com:xiaojzh/map-service.git
